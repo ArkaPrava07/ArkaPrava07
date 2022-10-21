@@ -3,9 +3,12 @@
 ## Hacktoberfest-2022
 [![@arkaprava07's Holopin ](https://holopin.me/arkaprava07)](https://holopin.io/@arkaprava07)
 
-<---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
+<div align="center">
+  <----------------------------------------->
+</div>
+<br/>
+<br/>
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
