@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hacktoberfest-2022
-[![@arkaprava07's Holopin ](https://holopin.me/arkaprava07)](https://holopin.io/@arkaprava07)
+[![@arkaprava07's Holopin board](https://holopin.me/arkaprava07)](https://holopin.io/@arkaprava07)
 
 
 <div align="center">
